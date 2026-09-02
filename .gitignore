@@ -1,0 +1,40 @@
+# Quartus generated files and directories
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+qdb/
+hc_output/
+
+*.rpt
+*.summary
+*.smsg
+*.chg
+*.cmp
+*.eqn
+*.pin
+*.sof
+*.pof
+*.jdi
+*.qws
+
+# Active-HDL generated files
+work/
+compile/
+*.lib
+*.log
+*.asdb
+*.awc
+
+# Temporary / backup files
+*.bak
+*.tmp
+*~
+Thumbs.db
+Desktop.ini
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
